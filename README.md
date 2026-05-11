@@ -26,7 +26,7 @@ project-folder/
 
 ## Deskripsi File
 
-### 1) `Superstore Dataset(4).csv`
+### 1) `Superstore Dataset.csv`
 
 Dataset mentah berisi data transaksi penjualan retail.
 
