@@ -15,7 +15,7 @@ Proyek ini cocok untuk kebutuhan:
 
 ```text
 project-folder/
-├── Superstore Dataset.csv     # Dataset mentah
+├── Superstore Dataset.csv        # Dataset mentah
 ├── superstore_clean.csv          # Dataset hasil transformasi
 ├── ETL_Superstore.ipynb          # Notebook proses ETL
 ├── superstore_dw.sql             # Script SQL data warehouse
